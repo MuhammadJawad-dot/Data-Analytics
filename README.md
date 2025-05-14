@@ -1,16 +1,24 @@
-<<<<<<< HEAD
-# React + Vite
+# 📊 DataVista — SaaS Analytics Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **DataVista** – a modern, responsive, and elegant landing page built with **React** and **Tailwind CSS**, designed for showcasing data analytics SaaS products and services.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚡ Lightning-fast React-based architecture
+- 🎨 Fully responsive UI with Tailwind CSS utility classes
+- 🧠 Clean and modern design tailored for data-driven services
+- 📦 Product features, pricing packages, testimonials, and more
 
-## Expanding the ESLint configuration
+## 🖼️ Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Data-Analytics
->>>>>>> a8f7119e15f56a7a8839cf03de959295eff91d23
+> _"Transform your data into decisions with ease."_  
+Live demo coming soon... 🚧
+
+## 🛠️ Tech Stack
+
+- **React** – Component-based UI development
+- **Tailwind CSS** – Rapid custom styling with utility classes
+- **Vite / CRA** – (depending on your setup)
+
+## 📁 Folder Structure (Optional)
+
