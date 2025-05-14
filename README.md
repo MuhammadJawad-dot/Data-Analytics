@@ -5,7 +5,7 @@ Welcome to **DataVista** – a modern, responsive, and elegant landing page buil
 ## 🌐 Live Demo
 
 Check out the live version here:  
-👉 [https://data-analytics-r8opykypb-jawads-projects-6732f8b9.vercel.app](https://data-analytics-r8opykypb-jawads-projects-6732f8b9.vercel.app)
+👉 [https://data-analytics-five.vercel.app](https://data-analytics-five.vercel.app)
 
 
 ## 🚀 Features
